@@ -2,7 +2,8 @@
 
 Welcome to the Accident Trend Monitor Dashboard project! This dashboard is designed to provide insightful visualizations and analysis of road accident data for the years 2021 and 2022. The goal of this project is to help users understand accident trends, casualty distribution, and various factors influencing road accidents.
 
-![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/f6e83d69-4b2b-4915-91b5-92b9df2f1621)
+![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/05d3f34f-0cff-40c0-8af8-253741e0d28a)
+
 
 
 
@@ -12,7 +13,8 @@ The Accident Trend Monitor Dashboard focuses on the following key aspects:
 - Primary KPI: Total Casualties after the accident
 - Primary KPIs: Total Casualties & Percentage by Accident Severity and Maximum Casualties by Type of Vehicle
 
-![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/c2b12827-58af-4f34-8a00-8d63c3e7e4e5)
+![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/43dcc56a-fc91-4ae8-a8e0-4189f1650dd6)
+
   
 - Secondary KPIs:
   - Total Casualties by Vehicle Type
