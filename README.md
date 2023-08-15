@@ -12,7 +12,7 @@ The Accident Trend Monitor Dashboard focuses on the following key aspects:
 - Primary KPI: Total Casualties after the accident
 - Primary KPIs: Total Casualties & Percentage by Accident Severity and Maximum Casualties by Type of Vehicle
 
-- ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/c2b12827-58af-4f34-8a00-8d63c3e7e4e5)
+![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/c2b12827-58af-4f34-8a00-8d63c3e7e4e5)
   
 - Secondary KPIs:
   - Total Casualties by Vehicle Type
@@ -21,8 +21,8 @@ The Accident Trend Monitor Dashboard focuses on the following key aspects:
   - Distribution of Total Casualties by Road Surface
   - Relationship between Casualties by Area/Location and by Day/Night
   - Casualties by Weather Conditions
-  - 
-  - ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/2a46e5ca-7aac-446d-a9fc-a34fa308a25e)
+  
+![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/2a46e5ca-7aac-446d-a9fc-a34fa308a25e)
 
 ## Workflow
 
