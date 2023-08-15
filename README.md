@@ -39,24 +39,31 @@ The analysis was carried out using pivot tables in Excel:
 
 The insights from the data analysis were visualized using Excel's charting capabilities:
 - Pie chart for **Casualties by Urban/Rural Area** to illustrate the distribution of casualties based on whether the accident occurred in an urban or rural area.
+  
   ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/466a53d8-7609-4279-91d9-02085e106c98)
 
 - Pie chart for **Casualties by Day/Night** to compare casualties occurring during the day and night.
+  
   ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/1da0c38f-6c79-499d-99cc-6844d6a00d23)
 
 - Donut chart for **Casualties by Weather Conditions** showcasing casualties based on weather conditions, including rain, fine weather, others, and snow.
+  
   ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/76dcb1a8-a947-4fc2-adae-182f35328bf7)
 
 - Line chart for **Monthly Casualties Comparison (2021 vs 2022)** depicting the monthly trend comparison of casualties between 2021 and 2022.
+  
   ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/472e0ead-82bd-490a-912a-3c465835fe37)
 
 - Bar chart for **Casualties by Road Surfaces** presenting the distribution of casualties across different road surface conditions.
+  
   ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/b75ae221-b377-481a-b4a2-b5688ab66516)
 
 - Column chart for **Road Type vs Casualties** showing casualties based on different road types.
+  
 ![image](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/d68843ea-9a21-4f5b-9b82-7029f3753b9e)
 
 ### Dashboard Creation
+
 ![DASHBOARD](https://github.com/ipratham7/Accident-Trend-Monitor/assets/64377030/cc91118e-ce6f-4002-90f6-33330772d101)
 
 A comprehensive dashboard named "Accident Trend Monitor" was created directly in Excel:
